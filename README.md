@@ -22,4 +22,4 @@ C/C++打包工具，以及编程库
 0.0.1 项目启动，开始撸代码
 
 #### 其他
-[English]()
+[English](https://github.com/21dyz21/CPlusBuildTools/blob/main/README.en.md)
