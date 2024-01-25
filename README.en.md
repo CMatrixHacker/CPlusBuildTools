@@ -24,4 +24,4 @@ Developed in pure C/C++ language
 
 0.0.1 Project start, start code
 ### other
-[中文版]()
+[中文版](https://github.com/21dyz21/CPlusBuildTools/blob/main/README.en.md)
